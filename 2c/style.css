@@ -1,0 +1,28 @@
+body {
+	background-color: white;
+}
+
+.primeiraparte {
+	background-color: black;
+
+	color: white;
+}
+
+.foto-div {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.foto {
+	width: 700px;
+}
+
+.foto-aluno {
+	width: 	300px;
+}
+
+.todososestudantes{
+	display: grid;
+	grid-template-columns: 20% 20% 20% 20% 20%;
+}
